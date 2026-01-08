@@ -1,0 +1,41 @@
+{
+  "name": "nerv-theme",
+  "displayName": "NERV Theme",
+  "description": "A dark theme inspired by 80s/90s cyberpunk interfaces and Wong Kar-wai's green-tinted cinematography. Deep oceanic greens meet warning-sign orange.",
+  "version": "1.0.0",
+  "publisher": "wongmjane",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wongmjane/nerv-theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "cyberpunk",
+    "industrial",
+    "cinematic",
+    "green",
+    "nerv"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NERV",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nerv-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0a1612",
+    "theme": "dark"
+  }
+}

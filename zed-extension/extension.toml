@@ -1,0 +1,10 @@
+[package]
+name = "nerv-theme"
+description = "A dark theme inspired by 80s/90s cyberpunk interfaces and Wong Kar-wai's green-tinted cinematography. Deep oceanic greens meet warning-sign orange."
+version = "1.0.0"
+authors = ["Jane Manchun Wong (https://wongmjane.com)"]
+repository = "https://github.com/wongmjane/nerv-theme"
+schema_version = 1
+
+[themes]
+nerv = "themes/nerv.json"

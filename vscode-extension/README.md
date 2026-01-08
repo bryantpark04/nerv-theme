@@ -1,5 +1,7 @@
 # NERV
 
+[![GitHub](https://img.shields.io/github/license/wongmjane/nerv-theme)](https://github.com/wongmjane/nerv-theme)
+
 A dark editor theme inspired by 80s/90s cyberpunk interfaces, Evangelion's NERV headquarters, and the green-tinted cinematography of Wong Kar-wai. Industrial control terminals meet the melancholic warmth of *In the Mood for Love*.
 
 ![NERV Theme](screenshot.png)
@@ -18,7 +20,12 @@ Deep oceanic greens meet warning-sign orange. Phosphor glow on aging CRT monitor
 
 ## Installation
 
-### VS Code
+### VS Code / Cursor
+
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/wongmjane.nerv-theme?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=wongmjane.nerv-theme)
+[![Open VSX](https://img.shields.io/open-vsx/v/wongmjane/nerv-theme?label=Open%20VSX)](https://open-vsx.org/extension/wongmjane/nerv-theme)
+
+Install from [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=wongmjane.nerv-theme) or [Open VSX](https://open-vsx.org/extension/wongmjane/nerv-theme), or:
 
 1. Open VS Code
 2. Go to Extensions (`Cmd+Shift+X` / `Ctrl+Shift+X`)
@@ -26,12 +33,6 @@ Deep oceanic greens meet warning-sign orange. Phosphor glow on aging CRT monitor
 4. Click Install
 5. Open Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
 6. Select "Preferences: Color Theme" → "NERV"
-
-**Manual Installation:**
-```bash
-# Copy the extension folder to your VS Code extensions directory
-cp -r vscode-extension ~/.vscode/extensions/nerv-theme
-```
 
 ### Zed
 
@@ -75,7 +76,7 @@ The goal is capturing a *feeling*—the weight of solitude in a darkened room, i
 
 ## Contributing
 
-Contributions are welcome! If you'd like to port NERV to additional editors or improve existing themes, please open a PR.
+Contributions are welcome! If you'd like to port NERV to additional editors or improve existing themes, please [open a PR](https://github.com/wongmjane/nerv-theme).
 
 ## Credits
 
